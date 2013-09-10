@@ -1,7 +1,6 @@
 #! /usr/bin/env python
 #coding=utf-8
-#! /usr/bin/env python
-#coding=utf-8
+#by kasim&Mango 20130910
 import MySQLdb
 import os
 import time
