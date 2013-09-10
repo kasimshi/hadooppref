@@ -1,4 +1,0 @@
-hadooppref
-==========
-
-Hadoop Performance
